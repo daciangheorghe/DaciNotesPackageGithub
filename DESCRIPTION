@@ -1,0 +1,7 @@
+Package: DaciNotes
+Type: Package
+Title: Notes on various functions
+Version: 0.0.1.0
+RoxygenNote: 7.2.2
+Roxygen: list(markdown = TRUE)
+Encoding: UTF-8
